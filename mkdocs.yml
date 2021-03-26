@@ -1,0 +1,23 @@
+site_name: BrantLab Docs
+
+theme:
+  name: material
+  logo: https://home.brantlab.com/assets/icons/logo_brantlab.png
+  favicon: https://home.brantlab.com/assets/icons/logo_brantlab.png
+  features:
+    - navigation.expand
+  palette:
+    scheme: slate
+    primary: black
+
+copyright: You think it and I lab it
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Brantlab
+
+markdown_extensions:
+  - pymdownx.highlight:
+      linenums: true
+  - pymdownx.highlight
+  - pymdownx.superfences
