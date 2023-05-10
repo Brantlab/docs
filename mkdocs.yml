@@ -1,7 +1,7 @@
 site_name: BrantLab Docs
 theme:
   name: material
-  logo: https://home.brantlab.com/assets/icons/logo_brantlab.png
+  logo: https://contact.brantlab.xyz/logo.png
   favicon: https://home.brantlab.com/assets/icons/logo_brantlab.png
   features:
     - navigation.expand
